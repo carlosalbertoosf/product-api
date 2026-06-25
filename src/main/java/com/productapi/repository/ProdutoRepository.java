@@ -1,6 +1,6 @@
-package com.produtoapi.repository;
+package com.productapi.repository;
 
-import com.produtoapi.model.Produto;
+import com.productapi.model.Produto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

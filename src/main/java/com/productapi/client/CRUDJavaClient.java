@@ -1,4 +1,4 @@
-package com.produtoapi.client;
+package com.productapi.client;
 
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
@@ -6,7 +6,7 @@ import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
 
-import com.produtoapi.model.Produto;
+import com.productapi.model.Produto;
 
 import java.util.Arrays;
 import java.util.List;

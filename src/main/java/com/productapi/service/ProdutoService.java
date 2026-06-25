@@ -1,7 +1,7 @@
-package com.produtoapi.service;
+package com.productapi.service;
 
-import com.produtoapi.model.Produto;
-import com.produtoapi.repository.ProdutoRepository;
+import com.productapi.model.Produto;
+import com.productapi.repository.ProdutoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

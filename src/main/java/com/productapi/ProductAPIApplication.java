@@ -1,13 +1,13 @@
-package com.produtoapi;
+package com.productapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MeuProjetoSpringbootApplication {
+public class ProductAPIApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MeuProjetoSpringbootApplication.class, args);
+		SpringApplication.run(ProductAPIApplication.class, args);
 	}
 
 }

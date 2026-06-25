@@ -1,10 +1,10 @@
-package com.produtoapi.runner;
+package com.productapi.runner;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
-import com.produtoapi.model.Produto;
+import com.productapi.model.Produto;
 
 import java.util.Arrays;
 import java.util.List;
